@@ -1,0 +1,9 @@
+version: 1.8.1
+files:
+  - url: sispop-electron-wallet-1.8.1-linux.AppImage
+    sha512: JZ9+JyKXOPRqzs27Lh//avbpzrtfozttS1KcUmd9yI8xPdS3qKQTlLY4P0CYDw8vg9bnRojHUZkygv/2BE9fXw==
+    size: 86802638
+    blockMapSize: 90338
+path: sispop-electron-wallet-1.8.1-linux.AppImage
+sha512: JZ9+JyKXOPRqzs27Lh//avbpzrtfozttS1KcUmd9yI8xPdS3qKQTlLY4P0CYDw8vg9bnRojHUZkygv/2BE9fXw==
+releaseDate: '2023-08-29T06:55:48.858Z'
